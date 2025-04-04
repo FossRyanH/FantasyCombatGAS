@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE5Repos\\FantasyCombatGAS\\FantasyCombat\\Source\\FantasyCombat\\FantasyCombat.Build.cs",
+		"E:\\UE5Repos\\FantasyCombatGAS\\FantasyCombat\\Source\\FantasyCombat.Target.cs",
+		"E:\\UE5Repos\\FantasyCombatGAS\\FantasyCombat\\Source\\FantasyCombatEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

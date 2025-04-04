@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FantasyCombat",
+			"Path": "..\\Source\\FantasyCombat.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FantasyCombatEditor",
+			"Path": "..\\Source\\FantasyCombatEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
