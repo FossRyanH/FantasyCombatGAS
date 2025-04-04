@@ -81,7 +81,6 @@
 /DUE_BUILD_DEVELOPMENT=1
 /DORIGINAL_FILE_NAME="UnrealEditor-FantasyCombat.dll"
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
-/DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Third Person Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=FantasyCombat
 /fo "E:\UE5Repos\FantasyCombatGAS\FantasyCombat\Intermediate\Build\Win64\x64\UnrealEditor\Development\FantasyCombat\Default.rc2.res"

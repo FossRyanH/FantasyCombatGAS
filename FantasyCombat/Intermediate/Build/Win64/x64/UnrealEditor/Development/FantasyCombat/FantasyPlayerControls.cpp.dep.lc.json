@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5repos\\fantasycombatgas\\fantasycombat\\source\\fantasycombat\\private\\controller\\fantasyplayercontrols.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5repos\\fantasycombatgas\\fantasycombat\\intermediate\\build\\win64\\x64\\fantasycombateditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5repos\\fantasycombatgas\\fantasycombat\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fantasycombat\\definitions.fantasycombat.h",
+            "e:\\ue5repos\\fantasycombatgas\\fantasycombat\\source\\fantasycombat\\public\\controller\\fantasyplayercontrols.h",
+            "e:\\ue5repos\\fantasycombatgas\\fantasycombat\\intermediate\\build\\win64\\unrealeditor\\inc\\fantasycombat\\uht\\fantasyplayercontrols.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

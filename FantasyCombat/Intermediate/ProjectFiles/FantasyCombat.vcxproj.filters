@@ -11,6 +11,7 @@
     <None Include="..\..\Source\FantasyCombatEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -18,6 +19,9 @@
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEngine.ini">
@@ -52,6 +56,48 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\FantasyCombat\FantasyCombatGameMode.h">
       <Filter>Source\FantasyCombat</Filter>
+    </ClCompile>
+    <Filter Include="Source\FantasyCombat\Private">
+      <UniqueIdentifier>{AF67E59F-4E89-3420-88B6-90BC6F860D75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\FantasyCombat\Private\Characters">
+      <UniqueIdentifier>{F219D821-4DE6-3232-B63B-00D53C7C4859}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FantasyCombat\Private\Characters\FantasyCombatCharacterBase.cpp">
+      <Filter>Source\FantasyCombat\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\FantasyCombat\Private\Controller">
+      <UniqueIdentifier>{5FA4BFA7-EF97-30DC-85E9-6C1DD30D5980}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FantasyCombat\Private\Controller\FantasyPlayerControls.cpp">
+      <Filter>Source\FantasyCombat\Private\Controller</Filter>
+    </ClCompile>
+    <Filter Include="Source\FantasyCombat\Private\GameModes">
+      <UniqueIdentifier>{2BBF0562-98F5-3205-AC31-39A9B7D84D77}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FantasyCombat\Private\GameModes\FantasyCombatGameModeBase.cpp">
+      <Filter>Source\FantasyCombat\Private\GameModes</Filter>
+    </ClCompile>
+    <Filter Include="Source\FantasyCombat\Public">
+      <UniqueIdentifier>{074234A0-9883-3F00-B2B4-CBDDAFC76215}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\FantasyCombat\Public\Characters">
+      <UniqueIdentifier>{8AE7E504-7B70-371D-A139-743C0ECF9AE4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FantasyCombat\Public\Characters\FantasyCombatCharacterBase.h">
+      <Filter>Source\FantasyCombat\Public\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\FantasyCombat\Public\Controller">
+      <UniqueIdentifier>{0323AF9E-F765-3229-8A48-2F9FB65CFF80}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FantasyCombat\Public\Controller\FantasyPlayerControls.h">
+      <Filter>Source\FantasyCombat\Public\Controller</Filter>
+    </ClCompile>
+    <Filter Include="Source\FantasyCombat\Public\GameModes">
+      <UniqueIdentifier>{22AF6BCD-A226-37EF-86FC-37810AAB44A8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FantasyCombat\Public\GameModes\FantasyCombatGameModeBase.h">
+      <Filter>Source\FantasyCombat\Public\GameModes</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1614,3 +1614,288 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.04-16.59.12:831][ 49]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-7LBmGYnQkkKnpWZxZsNE0w-o8T4S6vyDEmhGV_OtwjoZw]
 [2025.04.04-17.00.22:118][553]LogSlate: Window 'Editor Preferences' being destroyed
 [2025.04.04-17.00.22:128][553]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.04.04-17.01.00:194][741]LogDerivedDataCache: C:/Users/ryanh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.04-17.01.29:500][432]Cmd: t.MaxFPS 1000
+[2025.04.04-17.01.29:500][432]t.MaxFPS = "1000"
+[2025.04.04-17.01.32:769][992]Cmd: STAT FPS
+[2025.04.04-17.01.38:769][ 26]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.TSR.Resurrection:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2025.04.04-17.01.38:769][ 26]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.DetailMode:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:8]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:128]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:128]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2025.04.04-17.01.38:770][ 26]LogConfig: Applying CVar settings from Section [LandscapeQuality@0] File [Scalability]
+[2025.04.04-17.01.38:783][ 26]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.04-17.01.38:788][ 26]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2025.04.04-17.01.38:910][ 32]LogContentStreaming: Texture pool size now 400 MB
+[2025.04.04-17.01.38:910][ 32]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="400"
+[2025.04.04-17.01.44:528][980]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2025.04.04-17.01.44:528][980]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.TSR.Resurrection:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.04.04-17.01.44:528][980]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.DetailMode:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.04.04-17.01.44:529][980]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2025.04.04-17.01.44:529][980]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2025.04.04-17.01.44:540][980]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.04-17.01.44:602][984]LogContentStreaming: Texture pool size now 800 MB
+[2025.04.04-17.01.44:602][984]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2025.04.04-17.01.52:956][308]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.04-17.02.24:223][811]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="E:/UE5Repos/FantasyCombatGAS/FantasyCombat/FantasyCombat.uproject" -game -rocket -progress
+[2025.04.04-17.02.24:389][811]Using bundled DotNet SDK version: 8.0.300
+[2025.04.04-17.02.24:389][811]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="E:/UE5Repos/FantasyCombatGAS/FantasyCombat/FantasyCombat.uproject" -game -rocket -progress
+[2025.04.04-17.02.24:792][811]Log file: C:\Users\ryanh\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.04.04-17.02.25:095][811]
+[2025.04.04-17.02.25:095][811]Generating VisualStudio project files:
+[2025.04.04-17.02.25:095][811]Discovering modules, targets and source code for project...
+[2025.04.04-17.02.25:598][811]Available x64 toolchains (1):
+[2025.04.04-17.02.25:598][811] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808
+[2025.04.04-17.02.25:598][811]    (Family=14.43.34808, FamilyRank=1, Version=14.43.34809, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64)
+[2025.04.04-17.02.25:598][811]Visual Studio 2022 compiler version 14.43.34809 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.04.04-17.02.28:713][811]Binding IntelliSense data...
+[2025.04.04-17.02.33:445][811]Binding IntelliSense data... 100%
+[2025.04.04-17.02.33:445][811]Writing project files...
+[2025.04.04-17.02.37:683][811]Writing project files... 100%
+[2025.04.04-17.02.37:684][811]
+[2025.04.04-17.02.37:684][811]Generating QueryTargets data for editor...
+[2025.04.04-17.02.37:684][811]Total execution time: 13.22 seconds
+[2025.04.04-17.02.38:088][811]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.04-17.02.38:149][811]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.04.04-17.02.57:206][366]LogLiveCoding: Display:    Creating library E:\UE5Repos\FantasyCombatGAS\FantasyCombat\Binaries\Win64\UnrealEditor-FantasyCombat.patch_0.lib and object E:\UE5Repos\FantasyCombatGAS\FantasyCombat\Binaries\Win64\UnrealEditor-FantasyCombat.patch_0.exp
+[2025.04.04-17.02.57:348][366]LogClass: UPackage /Script/FantasyCombat Reload.
+[2025.04.04-17.02.57:350][366]LogClass: Could not find existing class FantasyCombatGameModeBase in package /Script/FantasyCombat for reload, assuming new or modified class
+[2025.04.04-17.02.57:486][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.04-17.02.57:607][367]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 2 classes unchanged
+[2025.04.04-17.02.57:607][367]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.04.04-17.04.54:620][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 349.079376
+[2025.04.04-17.04.55:620][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-17.04.55:620][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 349.745972, Update Interval: 327.799927
+[2025.04.04-17.05.49:834][849]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="E:/UE5Repos/FantasyCombatGAS/FantasyCombat/FantasyCombat.uproject" -game -rocket -progress
+[2025.04.04-17.05.50:151][849]Using bundled DotNet SDK version: 8.0.300
+[2025.04.04-17.05.50:151][849]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="E:/UE5Repos/FantasyCombatGAS/FantasyCombat/FantasyCombat.uproject" -game -rocket -progress
+[2025.04.04-17.05.50:756][849]Log file: C:\Users\ryanh\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.04.04-17.05.50:958][849]
+[2025.04.04-17.05.50:958][849]Generating VisualStudio project files:
+[2025.04.04-17.05.50:958][849]Discovering modules, targets and source code for project...
+[2025.04.04-17.05.51:663][849]Available x64 toolchains (1):
+[2025.04.04-17.05.51:663][849] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808
+[2025.04.04-17.05.51:663][849]    (Family=14.43.34808, FamilyRank=1, Version=14.43.34809, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64)
+[2025.04.04-17.05.51:663][849]Visual Studio 2022 compiler version 14.43.34809 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.04.04-17.05.55:484][849]Binding IntelliSense data...
+[2025.04.04-17.06.05:771][849]Binding IntelliSense data... 100%
+[2025.04.04-17.06.05:771][849]Writing project files...
+[2025.04.04-17.06.11:007][849]Writing project files... 100%
+[2025.04.04-17.06.11:008][849]
+[2025.04.04-17.06.11:008][849]Generating QueryTargets data for editor...
+[2025.04.04-17.06.11:008][849]Total execution time: 20.83 seconds
+[2025.04.04-17.06.11:518][849]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.04-17.06.11:575][849]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.04.04-17.06.30:568][907]LogLiveCoding: Display:    Creating library E:\UE5Repos\FantasyCombatGAS\FantasyCombat\Binaries\Win64\UnrealEditor-FantasyCombat.patch_1.lib and object E:\UE5Repos\FantasyCombatGAS\FantasyCombat\Binaries\Win64\UnrealEditor-FantasyCombat.patch_1.exp
+[2025.04.04-17.06.30:803][907]LogClass: UPackage /Script/FantasyCombat Reload.
+[2025.04.04-17.06.30:805][907]LogClass: Could not find existing class FantasyCombatCharacterBase in package /Script/FantasyCombat for reload, assuming new or modified class
+[2025.04.04-17.06.30:879][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.04.04-17.06.31:038][908]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 3 classes unchanged
+[2025.04.04-17.06.31:038][908]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.04.04-17.07.16:825][132]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="E:/UE5Repos/FantasyCombatGAS/FantasyCombat/FantasyCombat.uproject" -game -rocket -progress
+[2025.04.04-17.07.16:968][132]Using bundled DotNet SDK version: 8.0.300
+[2025.04.04-17.07.16:968][132]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="E:/UE5Repos/FantasyCombatGAS/FantasyCombat/FantasyCombat.uproject" -game -rocket -progress
+[2025.04.04-17.07.17:471][132]Log file: C:\Users\ryanh\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.04.04-17.07.17:772][132]
+[2025.04.04-17.07.17:772][132]Generating VisualStudio project files:
+[2025.04.04-17.07.17:772][132]Discovering modules, targets and source code for project...
+[2025.04.04-17.07.18:374][132]Available x64 toolchains (1):
+[2025.04.04-17.07.18:374][132] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808
+[2025.04.04-17.07.18:374][132]    (Family=14.43.34808, FamilyRank=1, Version=14.43.34809, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64)
+[2025.04.04-17.07.18:374][132]Visual Studio 2022 compiler version 14.43.34809 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.04.04-17.07.22:809][132]Binding IntelliSense data...
+[2025.04.04-17.07.31:879][132]Binding IntelliSense data... 100%
+[2025.04.04-17.07.31:879][132]Writing project files...
+[2025.04.04-17.07.37:728][132]Writing project files... 100%
+[2025.04.04-17.07.37:728][132]
+[2025.04.04-17.07.37:728][132]Generating QueryTargets data for editor...
+[2025.04.04-17.07.37:728][132]Total execution time: 20.63 seconds
+[2025.04.04-17.07.38:248][132]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.04.04-17.07.38:323][132]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.04.04-17.07.56:875][272]LogLiveCoding: Display:    Creating library E:\UE5Repos\FantasyCombatGAS\FantasyCombat\Binaries\Win64\UnrealEditor-FantasyCombat.patch_2.lib and object E:\UE5Repos\FantasyCombatGAS\FantasyCombat\Binaries\Win64\UnrealEditor-FantasyCombat.patch_2.exp
+[2025.04.04-17.07.57:060][272]LogClass: UPackage /Script/FantasyCombat Reload.
+[2025.04.04-17.07.57:064][272]LogClass: Could not find existing class FantasyPlayerControls in package /Script/FantasyCombat for reload, assuming new or modified class
+[2025.04.04-17.07.57:141][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.04.04-17.07.57:310][273]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 4 classes unchanged
+[2025.04.04-17.07.57:310][273]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
